@@ -1,0 +1,2 @@
+git push RemoteName BranchName
+git remote -v
